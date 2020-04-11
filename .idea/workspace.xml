@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -61,7 +61,7 @@
       <workItem from="1586425249502" duration="3243000" />
       <workItem from="1586442639621" duration="17138000" />
       <workItem from="1586589498593" duration="20000" />
-      <workItem from="1586589536594" duration="19003000" />
+      <workItem from="1586589536594" duration="23229000" />
     </task>
     <servers />
   </component>
@@ -96,9 +96,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1586589668553" />
-    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586356468904">
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586628038712">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586356468904" />
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586628038712" />
   </component>
 </project>
