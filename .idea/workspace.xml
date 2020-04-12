@@ -35,14 +35,15 @@
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\e-commerce\crwn-clothing\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\redux_panda\ZeroToMastery\src\redux\shop" />
       <recent name="D:\redux_panda\ZeroToMastery\src\components\cart-item" />
       <recent name="D:\redux_panda\ZeroToMastery\public" />
       <recent name="D:\redux_panda\ZeroToMastery\src\assets" />
       <recent name="D:\e-commerce\crwn-clothing\src\pages\homepage" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\e-commerce\crwn-clothing\public" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -61,7 +62,8 @@
       <workItem from="1586425249502" duration="3243000" />
       <workItem from="1586442639621" duration="17138000" />
       <workItem from="1586589498593" duration="20000" />
-      <workItem from="1586589536594" duration="26153000" />
+      <workItem from="1586589536594" duration="26437000" />
+      <workItem from="1586680087582" duration="8279000" />
     </task>
     <servers />
   </component>
@@ -100,9 +102,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-3" y="169" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1586631214809" />
-    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586628038712">
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1586680201532">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586628038712" />
+    <state x="4" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1586680201532" />
   </component>
 </project>
