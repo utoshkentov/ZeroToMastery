@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZeroToMastery/static/css/main.af598a50.chunk.css",
+    "main.js": "/ZeroToMastery/static/js/main.6a0f696b.chunk.js",
+    "main.js.map": "/ZeroToMastery/static/js/main.6a0f696b.chunk.js.map",
+    "runtime-main.js": "/ZeroToMastery/static/js/runtime-main.98e36639.js",
+    "runtime-main.js.map": "/ZeroToMastery/static/js/runtime-main.98e36639.js.map",
+    "static/js/2.8170bda5.chunk.js": "/ZeroToMastery/static/js/2.8170bda5.chunk.js",
+    "static/js/2.8170bda5.chunk.js.map": "/ZeroToMastery/static/js/2.8170bda5.chunk.js.map",
+    "index.html": "/ZeroToMastery/index.html",
+    "precache-manifest.4a81b1c050eebedda9bcbdffb569d9e3.js": "/ZeroToMastery/precache-manifest.4a81b1c050eebedda9bcbdffb569d9e3.js",
+    "service-worker.js": "/ZeroToMastery/service-worker.js",
+    "static/css/main.af598a50.chunk.css.map": "/ZeroToMastery/static/css/main.af598a50.chunk.css.map",
+    "static/js/2.8170bda5.chunk.js.LICENSE.txt": "/ZeroToMastery/static/js/2.8170bda5.chunk.js.LICENSE.txt",
+    "static/media/animal.fffc359c.svg": "/ZeroToMastery/static/media/animal.fffc359c.svg",
+    "static/media/shopping-bag.30f07071.svg": "/ZeroToMastery/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98e36639.js",
+    "static/js/2.8170bda5.chunk.js",
+    "static/css/main.af598a50.chunk.css",
+    "static/js/main.6a0f696b.chunk.js"
+  ]
+}
